@@ -48,25 +48,7 @@ Here are some ideas to get you started:
 <!--Intro end-->
 
 <!--- stats & Trophy -->
-<p align="center">
-  <!--- stats (start) -->
-  <table align="center">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&theme=dark&show_icons=true&count_private=true" alt="Estadísticas" />
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=dark" alt="Racha" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&theme=dark&layout=compact&langs_count=8&hide=html,css,scss" alt="Lenguajes" />
-      </td>
-    </tr>
-  </table>
-  <!--- trophy (start) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=onedark&row=1&column=6" alt="Trofeos" />
-  </a>
-</p>
+
 
 <!--Tecnologías-->
 <div align="center">
