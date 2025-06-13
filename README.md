@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!--- snake -->
 <div align="center">
-  <img  src="[https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg](https://media.istockphoto.com/id/1479525513/es/vector/desarrollo-de-software-banner-programaci%C3%B3n-sitio-web-y-app.jpg?s=612x612&w=is&k=20&c=l2gJBbtQNYAunuQXg5CsWaWrGo6X170N7Cn4v2rHZeA=)"
+  <img  src="https://www.canva.com/design/DAGqMCr1uRg/GCiYvEughth1d9avQnMpmQ/view?utm_content=DAGqMCr1uRg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h63d1d822f1)"
        alt="snake" /></a>
 </div>
 
