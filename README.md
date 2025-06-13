@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- Banner personalizado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2EF70E&background=0F0F0F&center=true&vCenter=true&width=800&height=100&lines=%3E%3E%3E+FullStack+%26+Desarrollo+Web+Developer;%3E%3E%3E+Java+%7C+C%2FC%23+%7C+Spring+Boot+%7C+Python" alt="Banner animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2EF70E&background=0F0F0F&center=true&vCenter=true&width=800&height=100&lines=%3E%3E%3E+FullStack+%26+Desarrollo+Web+Developer;%3E%3E%3E+Java+%7C+C%2FC%23+%7C+Spring+Boot+%7C+Mysql" alt="Banner animado" />
 </p>
 
 <!--- snake -->
