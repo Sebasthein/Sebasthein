@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Sebasthein/Sebasthein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,16 +35,16 @@ Here are some ideas to get you started:
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">"Domino el arte del backend y los sistemas"</h2></summary>
+    <summary><h2 style="display: inline-block">"Desarrollo FullStack y los sistemas de informacion"</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 💼 **Desarrollador Backend** especializado en Java y tecnologías empresariales
-- 🖥️ **SysAdmin** entusiasta con experiencia en Linux y administración de servidores
-- 🌱 Actualmente profundizando en **Arquitecturas de Microservicios** y **DevOps**
-- 📫 Contáctame: **tu-email@ejemplo.com**
-- 🛠️ Amante de las soluciones robustas y eficientes
+- 💼 **Desarrollador FullStack** en Java y tecnologías empresariales
+- 🖥️ **Estudiante de Ingenieria en Sistemas** entusiasta con experiencia en Linux
+- 🌱 Actualmente profundizando en **Arquitecturas de Microservicios** y **Desarrollo Movil**
+- 📫 Contáctame: **wsgudino@gmail.com**
+- 🛠️ Buen Aprendiz y un gran compañero en equipo
 <!--Intro end-->
 
 <!--- stats & Trophy -->
