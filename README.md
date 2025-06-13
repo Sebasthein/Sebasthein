@@ -67,15 +67,12 @@ Here are some ideas to get you started:
 <!--Redes-->
 <div align="center">
   <h2>🤝 Conéctate Conmigo</h2>
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/wsgudino/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:tu-email@ejemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:wsgudino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-<!--Visitas-->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="Contador de visitas" />
-</div>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
